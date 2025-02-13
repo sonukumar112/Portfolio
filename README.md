@@ -2,7 +2,7 @@
 
 Welcome to my personal **Portfolio Website** repository! This project showcases my skills, projects, and experiences as a **Computer Science & Engineering** student. 🚀  
 
-🔗 **Live Demo:** [Visit My Portfolio](https://your-portfolio-link.com)
+🔗 **Live Demo:** [Visit My Portfolio]( https://sonukumar112.github.io/Portfolio/)
 
 ---
 
