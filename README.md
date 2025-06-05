@@ -7,7 +7,7 @@ Welcome to my personal **Portfolio Website** repository! This project showcases 
 ---
 
 ## 📜 **About Me**
-Hi! I am **Sonu Kumar Sah**, a passionate **Web Developer** & **Tech Enthusiast** currently pursuing **Computer Science & Engineering**. I enjoy solving problems, building projects, and learning new technologies.  
+Hi! I am **Sonu Kumar Sah**, a passionate **Frontend Developer** & **Tech Enthusiast** currently pursuing **Computer Science & Engineering**. I enjoy solving problems, building projects, and learning new technologies.  
 
 ---
 
