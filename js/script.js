@@ -26,7 +26,8 @@ window.onscroll = () => {
 
         };
     });
-    
+
+
 /* sticky navbar*/
 let header = document.querySelector('header');
 header.classList.toggle('sticky', window,scrollY > 100);
@@ -54,7 +55,7 @@ navbar.classList.remove('active');
  /* typed js*/
 
  const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'Frontend Developer','Frontend Developer'],
+    strings: ['Full Stack Developer', 'Full Stack Developer','Full Stack Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
